@@ -28,4 +28,4 @@ And some frameworks:
 
 Here's a list of the programming languages I've used on GitHub:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabitaadh16&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabitaadh16&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=sabitaadh16&layout=compact&theme=radical)https://github-readme-stats.vercel.app/api/top-langs/?username=sabitaadh16&layout=compact&theme=radical
